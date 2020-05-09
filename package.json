@@ -1,7 +1,7 @@
 {
-  "name": "nuxt-crud-with-lokijs",
+  "name": "nuxt-witt-lokijs-demo",
   "version": "1.0.0",
-  "description": "Nuxt CRUD app with Loki.js and Vuetify",
+  "description": "This demo showcases building CRUD app with embedded json database\n[Loki.js](http://lokijs.org/) and featuring Vuetify. Also it uses Nuxt ServerMiddleware, new Fetch, local modules, hooks and\nExpress Router for creating a CRUD api.",
   "author": "Huseyn Guliyev",
   "private": true,
   "scripts": {
@@ -34,9 +34,5 @@
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2"
   },
-  "keywords": [
-    "nuxt",
-    "vuetify",
-    "loki"
-  ]
+  "keywords": []
 }

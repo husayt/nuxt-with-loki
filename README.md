@@ -11,7 +11,7 @@ We use two (anti)patterns for communicating with DB.
 - CRUD with AsyncData - Through _/api_ middleware doing all the DB CRUD communication
 - CRUD with new Fetch - Through _/api_ middleware doing all the DB CRUD communication
 
-[Try demo on codesabndBox](https://codesandbox.io/s/lr9or04n67)
+[Try demo on codesabndBox](https://codesandbox.io/s/nuxt-witt-lokijs-demo-66ygl)
 
 ## Build Setup
 
